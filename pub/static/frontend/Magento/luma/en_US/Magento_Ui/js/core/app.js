@@ -1,0 +1,1 @@
+/var/www/html/goodie/vendor/magento/module-ui/view/base/web/js/core/app.js
