@@ -67,6 +67,7 @@ generated/*
 pub/static/*
 app/etc/*
 .gitattributes
+.gitignore
 
 !/var/.htaccess
 /vendor/*
