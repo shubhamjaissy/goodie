@@ -64,7 +64,6 @@ atlassian*
 var/*
 vendor/*
 generated/*
-pub/static/*
 app/etc/*
 .gitattributes
 .gitignore
